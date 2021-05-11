@@ -33,3 +33,4 @@ console.log(solve(input));
 
 // 出力例1
 // 2
+// 5
