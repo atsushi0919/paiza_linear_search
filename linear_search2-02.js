@@ -1,5 +1,6 @@
 // 10変数の最大最小 (paizaランク D 相当)
 // https://paiza.jp/works/mondai/sequence_search_problems/sequence_search_problems_minmax_step1
+
 function solve(inputStr) {
   let array = inputStr.split(' ').map((str) => parseInt(str));
   let maxNum = -Infinity;
