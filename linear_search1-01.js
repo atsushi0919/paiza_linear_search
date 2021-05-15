@@ -5,10 +5,7 @@ function solve(inputStr) {
   let [, array, num] = inputStr.trim().split('\n');
   array = array.split(' ');
 
-  let count = array.filter(function (x) {
-    return x == num;
-  }).length;
-
+  let count = array.filter((arrNum) => arrNum === num).length;
   return count;
 }
 
