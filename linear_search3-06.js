@@ -27,7 +27,7 @@ function solve(inputStr) {
 // const inputStr = require('fs').readFileSync('/dev/stdin', 'utf8');
 // console.log(solve(inputStr));
 
-const input = `
+const inputStr = `
 5
 -9 5
 0 4
@@ -38,7 +38,7 @@ const input = `
 -5 5
 `;
 
-console.log(solve(input));
+console.log(solve(inputStr));
 
 // 入力例1
 // 5

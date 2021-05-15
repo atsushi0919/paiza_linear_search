@@ -18,13 +18,13 @@ function solve(inputStr) {
 // const inputStr = require('fs').readFileSync('/dev/stdin', 'utf8');
 // console.log(solve(inputStr));
 
-const input = `
+const inputStr = `
 5
 -5 11 3 -9 0
 -4
 `;
 
-console.log(solve(input));
+console.log(solve(inputStr));
 
 // 入力例1
 // 5

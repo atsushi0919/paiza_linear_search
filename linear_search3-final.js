@@ -25,7 +25,7 @@ function solve(inputStr) {
 // const inputStr = require('fs').readFileSync('/dev/stdin', 'utf8');
 // console.log(solve(inputStr));
 
-const input = `
+const inputStr = `
 5
 alice 97
 bob 25
@@ -35,7 +35,7 @@ ellen 10
 35 80
 `;
 
-console.log(solve(input));
+console.log(solve(inputStr));
 
 // 入力例1
 // 5

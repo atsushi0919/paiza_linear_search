@@ -37,3 +37,9 @@
   - [STEP: 7 成績優秀者の列挙 1](https://paiza.jp/works/mondai/sequence_search_problems/sequence_search_problems_search_condition_step6) | [サンプルコード](https://github.com/atsushi0919/paiza_linear_search/blob/main/linear_search1-01.js)
 
   - [STEP: final 成績優秀者の列挙 2](https://paiza.jp/works/mondai/sequence_search_problems/sequence_search_problems_search_condition_boss) | [サンプルコード](https://github.com/atsushi0919/paiza_linear_search/blob/main/linear_search1-final.js)
+
+- ### 第 k 要素の探索
+
+  - [STEP: 1 2 番目に大きな値](https://paiza.jp/works/mondai/sequence_search_problems/sequence_search_problems_kthmax_step0) | [サンプルコード](https://github.com/atsushi0919/paiza_linear_search/blob/main/linear_search4-01.js)
+
+  - [STEP: final k 番目に大きな値](https://paiza.jp/works/mondai/sequence_search_problems/sequence_search_problems_kthmax_boss) | [サンプルコード](https://github.com/atsushi0919/paiza_linear_search/blob/main/linear_search4-final.js)
